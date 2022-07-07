@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    background-color: #393531;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px ;
+    margin: 20px;
+}
+
+.container-header {
+    font-size: 20px;
+    color: #c74634;
+}
+
+.box-1{
+    display: flex;
+    gap: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+.btn-class{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.btn-1{
+    border: 2px solid white;
+    padding: 10px;
+    background-color: transparent;
+    border-radius: 5px;
+    color: whitesmoke;
+}
